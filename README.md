@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi everyone i am Mowi Rilana
+ 
 
 <!--
 **MOWIRILANA/MOWIRILANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on home remote with electronics&IoT project
+- 🌱 I’m currently learning laravel
+🙌🙌
