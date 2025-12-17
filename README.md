@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on home remote with electronics&IoT project
-- 🌱 I’m currently learning laravel
+- 🔭 I’m currently working on home remote with electronics&IoT project (freelance)
+- 🌱 I’m currently have project Kontrol Motor BLDC for electric motor cycle (Full-time)
+- 🌱 I’m currently have project PCB Design for arm robot at industri manufactur (Freelance)
 🙌🙌
 
 ### SOCIAL MEDIA
